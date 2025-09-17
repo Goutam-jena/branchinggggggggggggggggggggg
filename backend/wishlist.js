@@ -28,7 +28,6 @@ async function getUserWishlist(userId) {
   }
 }
 
-
 // Example usage
 // addToWishlist('user123', 1);
 // getUserWishlist('user123');
